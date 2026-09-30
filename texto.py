@@ -1,1 +1,4 @@
-print("Git e GitHub")
+usuário="Ramon"
+função="Programador"
+
+print= (usuário, função)
