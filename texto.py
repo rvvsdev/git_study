@@ -1,4 +1,4 @@
-usuário="Ramon"
-função="Programador"
+nome = "ramon"
+idade = 31
 
-print= (usuário, função)
+print=(nome, idade)
